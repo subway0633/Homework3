@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpgGame", "RpgGame\RpgGame.csproj", "{52AABDA8-70E2-474C-B867-BB60C30032CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AABDA8-70E2-474C-B867-BB60C30032CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AABDA8-70E2-474C-B867-BB60C30032CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AABDA8-70E2-474C-B867-BB60C30032CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AABDA8-70E2-474C-B867-BB60C30032CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
